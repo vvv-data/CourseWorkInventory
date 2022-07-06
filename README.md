@@ -1,2 +1,2 @@
 # CourseWorkInventory
-Created game inventory systems while studying the tutorial
+created a system inventory script for unity while studying the tutorial
